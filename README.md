@@ -1,6 +1,6 @@
 # Setup Web Server (CentOS 7)
 
-## Prepared & Presented by [@BAN SOthen](https://twitter.com/bansothen)
+## Prepared & Presented by [@BAN Sothen](https://twitter.com/bansothen)
 
 Watch Video on [YouTube](https://www.youtube.com/bansokthen)
 
