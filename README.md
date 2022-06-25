@@ -1,4 +1,4 @@
-# Setup Webserver (CentOS 7)
+# Setup Web Server (CentOS 7)
 
 ## Prepared & Presented by [@BAN SOthen](https://twitter.com/bansothen)
 
